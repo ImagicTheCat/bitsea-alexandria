@@ -1,0 +1,3 @@
+= BitSea Alexandria
+
+This project is an application for the https://github.com/ImagicTheCat/bitsea-dds[BitSea Distributed Data System]. It acts as a seaport and its library (the _shore_ or storage) and offers different kind of seaways. It also aims to be a browser client to experiment with the distributed web.
